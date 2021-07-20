@@ -1,0 +1,11 @@
+{
+	"folders": [],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Learn_ReacJS",
+		"php.validate.executablePath": "",
+		"intelephense.environment.shortOpenTag": true,
+		"intelephense.phpdoc.useFullyQualifiedNames": true,
+		"php.executablePath": "",
+		"git.ignoreLimitWarning": true
+	}
+}
